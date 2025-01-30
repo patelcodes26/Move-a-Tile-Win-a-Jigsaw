@@ -15,12 +15,12 @@ Move A Tile - Win a Jigsaw is an engaging puzzle game built with JavaScript wher
 1. Clone the repository:
    
    ```sh
-   git clone https://github.com/yourusername/Move-A-Tile-Win-a-Jigsaw.git
+   git clone https://github.com/patelcodes26/Move-a-Tile-Win-a-Jigsaw.git
    ```
 3. Navigate to the project folder:
    
    ```sh
-   cd Move-A-Tile-Win-a-Jigsaw
+   cd Move-a-Tile-Win-a-Jigsaw
    ```
 5. Open `eight.html` or `fifteen.html` in a web browser to start playing.
 
